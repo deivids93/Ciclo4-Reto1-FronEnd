@@ -1,4 +1,4 @@
-const urlbase = "http://localhost:8080/api/user";
+const urlbase = "http://144.22.58.165:8080/api/user";
 
 const crear = () => {
   //document.getElementById('txtNombre').value;
